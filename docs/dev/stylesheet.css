@@ -1,0 +1,30 @@
+body
+{
+        background-color:#212121;
+}
+.name
+{
+        font-family: 'Josefin Sans', sans-serif;
+        color:#E8ECE7;
+        font-size:32px;
+}
+.error
+{
+        box-shadow:1px 1px 3px black;
+        border-radius:1px;
+        display:block;
+        margin-top:10%;
+        margin-left:auto;
+        margin-right:auto;
+        width:20%;
+
+}
+.errorMessage
+{
+        color:#E8ECE7;
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        font-family: 'Josefin Sans', sans-serif;
+        text-align:center;
+}
